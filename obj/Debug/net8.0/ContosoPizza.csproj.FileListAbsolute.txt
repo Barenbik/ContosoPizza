@@ -62,3 +62,4 @@
 /Users/tonysharples/Documents/Personal/Coding/Courses/DotNet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
 /Users/tonysharples/Documents/Personal/Coding/Courses/DotNet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
 /Users/tonysharples/Documents/Personal/Coding/Courses/DotNet/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/Users/tonysharples/Documents/Personal/Coding/Courses/DotNet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
